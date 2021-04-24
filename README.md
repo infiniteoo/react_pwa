@@ -20,7 +20,7 @@ This is the cheapest and fastest way to turn an existing website into a sort of 
 
 ### * React
 ### * Axios
-### * OpenWeatherAPI
+### * OpenWeatherMap API
 ### * PWA: Service Worker
 ### * PWA: Manifest.json
 
